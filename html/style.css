@@ -1,0 +1,173 @@
+
+@font-face {
+    font-family: PricedownBL;
+    src: url(s.ttf);
+}
+
+body {
+	display: block;
+}
+
+
+
+
+
+.money  {
+	position: absolute;
+    right: 3.8vh;
+    top: 7vh;
+	padding: 0;
+	border-radius: 8vh;
+	background-color: rgba(0, 0, 0, .5);
+	display: block
+}
+
+.money .iconmoney {
+	border-radius: 7vh;
+	padding: 1.1vh 1.5vh;
+	font-size: 1.5vh;
+	color: #fff;
+	background-image: linear-gradient(#0c4, #00802b);
+	float: left;
+	opacity: .7
+}
+.money div {
+	margin-right: 2vh;
+	color: #fff;
+	float: right;
+	font-size: 1.5vh;
+	font-family:PricedownBL;
+
+	padding: .7vh 2.5vh
+}
+.schwarzmoney  {
+	position: absolute;
+    right: 3.8vh;
+    top: 11vh;
+	padding: 0;
+	border-radius: 7vh;
+	background-color: rgba(0, 0, 0, .5);
+	display: none;
+}
+
+.schwarzmoney .iconmoney {
+	border-radius: 7vh;
+	padding: 1.1vh 1.5vh;
+	font-size: 1.5vh;
+	color: #fff;
+	background-image: linear-gradient(#e60000, #b30000);
+	float: left;
+	opacity: .7
+}
+.schwarzmoney div {
+	margin-right: 2vh;
+	color: #fff;
+	float: right;
+	font-size: 1.5vh;
+	font-family:PricedownBL;
+
+	padding: .7vh 2.5vh
+}
+
+.voice1 {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 12vh;
+	    height: 3.5vh;}
+
+
+
+.voice2 {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 12vh;
+	    height: 3.5vh;}
+
+
+.voice3 {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 12vh;
+	    height: 3.5vh;}
+
+.voicemuted {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 12vh;
+	    height: 3.5vh;}
+
+.voice4 {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 12vh;
+	    height: 3.5vh;}
+			
+			
+			.voice1black {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 16vh;
+	    height: 3.5vh;
+
+			}
+
+.voice2black {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 16vh;
+	    height: 3.5vh;}
+
+
+.voice3black {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 16vh;
+	    height: 3.5vh;}
+
+.voicemutedblack {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 16vh;
+	    height: 3.5vh;}
+
+.voice4black {
+    position: absolute;
+	display: none;
+    right: 3.9vh;
+    top: 16vh;
+	    height: 3.5vh;}
+.funk {
+    position: absolute;
+	display: none;
+    right: 9.5vh;
+    top: 14.9vh;
+		    height: 3.4vh;}
+
+.funke {
+    position: absolute;
+	display: none;
+    right: 9.5vh;
+    top: 14.9vh;
+		    height: 3.4vh;}
+.funkblack {
+    position: absolute;
+	display: none;
+    right: 9.5vh;
+    top: 14.9vh;
+		    height: 3.4vh;}
+
+.funkeblack {
+    position: absolute;
+	display: none;
+    right: 9.5vh;
+    top: 14.9vh;
+		    height: 3.4vh;}
