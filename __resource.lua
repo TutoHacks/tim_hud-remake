@@ -2,9 +2,9 @@ resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
 
 author 'TutoHacks' -- do not change!
 
-ui_page "html/html.html"
+ui_page "html/index.html"
 files {
-	"html/html.html",
+	"html/index.html",
 	"html/*.js",
 	"html/*.svg",
 	"html/*.ttf",
